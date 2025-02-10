@@ -2,6 +2,14 @@ site_name: Brady Vrooman
 site_url: https://bradyvrooman.com
 theme:
   name: material
+  features:
+    - navigation.indexes
+nav:
+  - Home: index.md
+  - Blog: 
+    - blog/index.md
 plugins:
   - search
   - blog
+  - tags
+  - meta
