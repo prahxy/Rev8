@@ -1,7 +1,7 @@
 site_name: Brady Vrooman
 site_url: https://bradyvrooman.com
 theme:
-  name: material
+  name: mkdocs
   features:
     - navigation.indexes
 nav:
