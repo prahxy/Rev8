@@ -1,5 +1,4 @@
 ---
-draft: false
 date: 2025-05-01
 categories:
   - Cycling
