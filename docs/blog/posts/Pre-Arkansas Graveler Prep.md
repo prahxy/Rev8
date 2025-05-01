@@ -1,8 +1,5 @@
 ---
-date: 2025-05-01
-categories:
-  - Cycling
-  - Arkansas
+date: 2025-04-31
 ---
 
 # Pre-Arkansas Graveler Prep
