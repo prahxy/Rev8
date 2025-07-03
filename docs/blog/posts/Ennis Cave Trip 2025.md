@@ -30,35 +30,35 @@ Moving down to Arkansas was one of the best opportunities for personal growth I 
 
 After gearing up we climbed down a few stone stairs, more of Tim's handiwork, into the entrance area of the cave.
 
-![Ennis Cave Entrance Pit](docs\assets\images\Ennis Cave\Ennis Cave_1.jpg)
+![Ennis Cave Entrance Pit](\assets\images\Ennis Cave\Ennis Cave_1.jpg)
 
 The entrance of Ennis Cave used to be a sinkhole, but that became troublesome, and dangerous to cavers. According to the Ennis Cave website;
 
 >Between May 1997 and May 1998, the bottom of the cave entrance was enlarged to walking height  and on the 12th Annual Memorial Day Weekend, a team of 20 cavers dropped the original 30 foot culvert pipe to the bottom of the cave entrance and a new 15 foot culvert pipe was added to the top. Diggers spider gate was transferred to the top of the new pipe. Then using drills and steel braces, the team drilled into the cave walls around the pipe and made a network of steel re-inforcement. Then approximately 3.5 cubic yards of concrete was pumped into the platform built around the pipe encasing the steel. The entrance was now finally complete. The new 45 foot culvert pipe allowed safe entrance into the cave including walking room starting at the end of the pipe.
 
-![Diggers Gate and Culvert Entrance](docs\assets\images\Ennis Cave\Ennis Cave_2.jpg)
+![Diggers Gate and Culvert Entrance](\assets\images\Ennis Cave\Ennis Cave_2.jpg)
 
 After climbing down the 45 foot culvert, we were finally in Ennis Cave.  We proceeded from the entrance, to an "Attic" space in Ennis Cave, labeled "B-Dry Room. To get up into the B-Dry Room, we had to climb a "sketchy" ladder.  The first of four "sketchy" ladders we'd climb throughout the day. Definitely not "OSHA Certified".  Once in the attic room, we were greeted by 5 gallon pails of diesel, kerosense, and massive Calcite formations.
 
-![Ennis Cave Entrance Map](site\assets\images\Ennis Cave_3.jpg)
+![Ennis Cave Entrance Map](\assets\images\Ennis Cave_3.jpg)
 
-![Massive Calcite Formations in B-Dry Room](docs\assets\images\Ennis Cave\Ennis Cave_3.jpg)
+![Massive Calcite Formations in B-Dry Room](\assets\images\Ennis Cave\Ennis Cave_3.jpg)
 
 From there we got to see a pretty sweet Geode.
 
-![Calcite? Geode](docs\assets\images\Ennis Cave\Ennis Cave_5.jpg)
+![Calcite? Geode](\assets\images\Ennis Cave\Ennis Cave_5.jpg)
 
 I can't make much more sense of the maps on the Ennis Cave Website, to piece together exactly where we went throughout the cave, but if you're in Arkansas, Ennis Cave is 100% worth the stop, and if you need a caving guide, or a climbing guide, I could 100% reccomend Aaron Christopher as your guy and guide.  He's the best!
 
 ## Photo Dump
 
-![Calcite Formation](docs\assets\images\Ennis Cave\Ennis Cave_6.jpg)
+![Calcite Formation](\assets\images\Ennis Cave\Ennis Cave_6.jpg)
 
-![Pretty Rock Roof](docs\assets\images\Ennis Cave\Ennis Cave_7.jpg)
+![Pretty Rock Roof](\assets\images\Ennis Cave\Ennis Cave_7.jpg)
 
-![Calcite Formation](docs\assets\images\Ennis Cave\Ennis Cave_9.jpg)
+![Calcite Formation](\assets\images\Ennis Cave\Ennis Cave_9.jpg)
 
-![100 foot Waterfall Room in Ennis Cave](docs\assets\images\Ennis Cave\Ennis Cave_10.jpg)
+![100 foot Waterfall Room in Ennis Cave](\assets\images\Ennis Cave\Ennis Cave_10.jpg)
 
 
 
